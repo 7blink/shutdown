@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Shutdown
+Comment=Update and Shutdown
+Exec=/home/{{user name}}/{{path to}}/Shutdown.sh
+Terminal=true
+Type=Application
+Icon=/home/{{user name}}/{{path to}}/Shutdown.ico
+
